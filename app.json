@@ -1,0 +1,22 @@
+{
+    "name": "botfuel-qna",
+    "description": "This is the Botfuel QNA.",
+    "env": {
+      "BOTFUEL_APP_TOKEN": {
+        "description": "Use this public token to identify your app with the Botfuel Webchat.",
+        "required": "true"
+      },
+      "BOTFUEL_APP_ID": {
+        "description": "Credentials: application id",
+        "required": "true"
+      },
+      "BOTFUEL_APP_KEY": {
+          "description": "Credentials: application key.",
+          "required": "true"
+      }
+    },
+    "buildpacks": [
+      {"url": "heroku/nodejs"}
+    ]
+  }
+  
