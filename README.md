@@ -7,7 +7,7 @@ See this [repository](https://github.com/Botfuel/botfuel-dialog/tree/master/pack
 
 ## Description
 
-This project is here to help deploying to Heroku.
+This project will help you to deploy a Botfuel QnA Bot to Heroku.
 
 
 ## Deploy to Heroku
