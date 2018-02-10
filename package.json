@@ -1,0 +1,11 @@
+{
+  "name": "jhipster-botfuel-qna",
+  "version": "0.0.1",
+  "description": "Sample qna bot using botfuel-dialog and qna",
+  "scripts": {
+    "start": "botfuel-run"
+  },
+  "dependencies": {
+    "botfuel-dialog": "latest"
+  }
+}
