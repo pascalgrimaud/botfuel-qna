@@ -2,7 +2,7 @@
 
 See official documentation at [botfuel.io](https://docs.botfuel.io/tutorials/creating-a-qn-a-bot)
 
-See the this [repository](https://github.com/Botfuel/botfuel-dialog/tree/master/packages/test-qna)
+See this [repository](https://github.com/Botfuel/botfuel-dialog/tree/master/packages/test-qna)
 
 
 ## Description
